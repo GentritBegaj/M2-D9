@@ -1,0 +1,23 @@
+body {
+  background: rgb(24, 22, 22);
+}
+
+nav#navbar {
+  background: black !important;
+}
+
+.jumbotron {
+  background: url("./images/pg-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -15px !important;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(161, 157, 157);
+}
+a:hover {
+  text-decoration: none;
+  color: rgb(54, 50, 50);
+}
